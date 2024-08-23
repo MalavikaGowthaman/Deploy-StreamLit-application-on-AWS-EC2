@@ -20,9 +20,13 @@ ssh -i "your-key.pem" ubuntu@your-ec2-public-ip
 
 ### 3. Prepare the Environment
 Run the following commands to set up your EC2 instance:
+
 sudo apt update
+
 sudo apt-get update
+
 sudo apt upgrade -y
+
 sudo apt install git curl unzip tar make sudo vim wget -y
 
 ### 4. Clone the Repository
