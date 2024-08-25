@@ -47,6 +47,11 @@ Install the required Python packages:
 
 pip3 install -r requirements.txt
 
+or
+
+pip3 install --break-system-packages -r requirements.txt
+
+
 ### 7. Run the Streamlit App
 Temporary Running:
 
