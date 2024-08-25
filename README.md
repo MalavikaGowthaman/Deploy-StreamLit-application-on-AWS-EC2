@@ -34,6 +34,7 @@ sudo apt install git curl unzip tar make sudo vim wget -y
 Clone this repository to your EC2 instance:
 
 git clone "https://github.com/your-username/your-repository.git"
+
 cd your-repository
 
 ### 5. Install Python and Pip
